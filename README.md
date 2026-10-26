@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harvey!
-- 💼 Frontend Developer at [Abilia](https://www.abilia.com/en)
+- 💼 Frontend Developer currently looking for work
 - 👀 I’m interested in JavaScript (particularly React!), a11y, and all things web related.
 - 🌱 I’m currently learning TypeScript and Swift!
 - 📫 How to reach me:
